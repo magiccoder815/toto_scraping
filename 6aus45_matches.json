@@ -1,0 +1,464 @@
+{
+    "bets": [
+        {
+            "start_date": "04.01.2025 to 06.01.2025",
+            "matches": [
+                {
+                    "home": "Tottenham Hotspur",
+                    "guest": "Newcastle United",
+                    "trend": "3-4-3"
+                },
+                {
+                    "home": "Aston Villa",
+                    "guest": "Leicester City",
+                    "trend": "5-3-2"
+                },
+                {
+                    "home": "AFC Bournemouth",
+                    "guest": "FC Everton",
+                    "trend": "5-3-2"
+                },
+                {
+                    "home": "Crystal Palace",
+                    "guest": "FC Chelsea",
+                    "trend": "2-2-6"
+                },
+                {
+                    "home": "Manchester City",
+                    "guest": "West Ham United",
+                    "trend": "4-4-2"
+                },
+                {
+                    "home": "FC Southampton",
+                    "guest": "FC Brentford",
+                    "trend": "2-2-6"
+                },
+                {
+                    "home": "Brighton & Hove Albion",
+                    "guest": "FC Arsenal",
+                    "trend": "3-3-4"
+                },
+                {
+                    "home": "FC Fulham",
+                    "guest": "Ipswich Town",
+                    "trend": "5-3-2"
+                },
+                {
+                    "home": "FC Liverpool",
+                    "guest": "Manchester United",
+                    "trend": "6-2-2"
+                },
+                {
+                    "home": "AC Florenz",
+                    "guest": "SSC Neapel",
+                    "trend": "3-3-4"
+                },
+                {
+                    "home": "AC Monza",
+                    "guest": "Cagliari Calcio",
+                    "trend": "3-3-4"
+                },
+                {
+                    "home": "US Lecce",
+                    "guest": "CFC Genua 1893",
+                    "trend": "3-4-3"
+                },
+                {
+                    "home": "FC Turin",
+                    "guest": "Parma Calcio",
+                    "trend": "4-3-3"
+                },
+                {
+                    "home": "FC Venedig",
+                    "guest": "FC Empoli",
+                    "trend": "2-4-4"
+                },
+                {
+                    "home": "Hellas Verona",
+                    "guest": "Udinese Calcio",
+                    "trend": "3-3-4"
+                },
+                {
+                    "home": "AS Saint-Etienne",
+                    "guest": "Stade Reims",
+                    "trend": "3-3-4"
+                },
+                {
+                    "home": "Lille OSC",
+                    "guest": "FC Nantes",
+                    "trend": "6-2-2"
+                },
+                {
+                    "home": "Olympique Lyon",
+                    "guest": "Montpellier Herault SC",
+                    "trend": "7-2-1"
+                },
+                {
+                    "home": "Angers SCO",
+                    "guest": "Stade Brestois",
+                    "trend": "3-3-4"
+                },
+                {
+                    "home": "RC Lens",
+                    "guest": "Toulouse FC",
+                    "trend": "5-3-2"
+                },
+                {
+                    "home": "RC Strasbourg Alsace",
+                    "guest": "AJ Auxerre",
+                    "trend": "5-3-2"
+                },
+                {
+                    "home": "Blackburn Rovers",
+                    "guest": "FC Burnley",
+                    "trend": "3-3-4"
+                },
+                {
+                    "home": "Stoke City",
+                    "guest": "Plymouth Argyle",
+                    "trend": "4-3-3"
+                },
+                {
+                    "home": "Swansea City",
+                    "guest": "West Bromwich Albion",
+                    "trend": "3-3-4"
+                },
+                {
+                    "home": "Bristol City",
+                    "guest": "Derby County",
+                    "trend": "4-3-3"
+                },
+                {
+                    "home": "Hull City",
+                    "guest": "Leeds United",
+                    "trend": "1-2-7"
+                },
+                {
+                    "home": "FC Middlesbrough",
+                    "guest": "Cardiff City",
+                    "trend": "6-2-2"
+                },
+                {
+                    "home": "Norwich City",
+                    "guest": "Coventry City",
+                    "trend": "4-3-3"
+                },
+                {
+                    "home": "Preston North End",
+                    "guest": "Oxford United",
+                    "trend": "4-3-3"
+                },
+                {
+                    "home": "Sheffield Wednesday",
+                    "guest": "FC Millwall",
+                    "trend": "4-3-3"
+                },
+                {
+                    "home": "FC Watford",
+                    "guest": "Sheffield United",
+                    "trend": "2-3-5"
+                },
+                {
+                    "home": "AFC Sunderland",
+                    "guest": "FC Portsmouth",
+                    "trend": "7-2-1"
+                },
+                {
+                    "home": "FC Motherwell",
+                    "guest": "FC Aberdeen",
+                    "trend": "2-4-4"
+                },
+                {
+                    "home": "Dundee United",
+                    "guest": "Heart of Midlothian",
+                    "trend": "5-3-2"
+                },
+                {
+                    "home": "FC Kilmarnock",
+                    "guest": "Ross County",
+                    "trend": "4-3-3"
+                },
+                {
+                    "home": "FC St. Johnstone",
+                    "guest": "FC Dundee",
+                    "trend": "3-3-4"
+                },
+                {
+                    "home": "Burton Albion",
+                    "guest": "Northampton Town",
+                    "trend": "2-4-4"
+                },
+                {
+                    "home": "Cambridge United",
+                    "guest": "Bristol Rovers",
+                    "trend": "3-3-4"
+                },
+                {
+                    "home": "FC Barnsley",
+                    "guest": "Crawley Town",
+                    "trend": "5-3-2"
+                },
+                {
+                    "home": "Charlton Athletic",
+                    "guest": "FC Reading",
+                    "trend": "2-4-4"
+                },
+                {
+                    "home": "Exeter City",
+                    "guest": "Bolton Wanderers",
+                    "trend": "3-3-4"
+                },
+                {
+                    "home": "Huddersfield Town",
+                    "guest": "Rotherham United",
+                    "trend": "5-3-2"
+                },
+                {
+                    "home": "Leyton Orient",
+                    "guest": "Shrewsbury Town",
+                    "trend": "5-3-2"
+                },
+                {
+                    "home": "Lincoln City",
+                    "guest": "Stevenage FC",
+                    "trend": "4-3-3"
+                },
+                {
+                    "home": "Stockport County",
+                    "guest": "Mansfield Town",
+                    "trend": "4-4-2"
+                }
+            ]
+        },
+        {
+            "start_date": "11.01.2025 to 13.01.2025",
+            "matches": [
+                {
+                    "home": "Borussia Mönchengladbach",
+                    "guest": "FC Bayern München",
+                    "trend": "2-2-6"
+                },
+                {
+                    "home": "TSG 1899 Hoffenheim",
+                    "guest": "VfL Wolfsburg",
+                    "trend": "4-3-3"
+                },
+                {
+                    "home": "1. FC Heidenheim 1846",
+                    "guest": "1. FC Union Berlin",
+                    "trend": "3-3-4"
+                },
+                {
+                    "home": "SC Freiburg",
+                    "guest": "Holstein Kiel",
+                    "trend": "7-2-1"
+                },
+                {
+                    "home": "1. FSV Mainz 05",
+                    "guest": "VfL Bochum 1848",
+                    "trend": "6-2-2"
+                },
+                {
+                    "home": "FC St. Pauli",
+                    "guest": "Eintracht Frankfurt",
+                    "trend": "3-3-4"
+                },
+                {
+                    "home": "RB Leipzig",
+                    "guest": "SV Werder Bremen",
+                    "trend": "6-2-2"
+                },
+                {
+                    "home": "FC Augsburg",
+                    "guest": "VfB Stuttgart",
+                    "trend": "3-3-4"
+                },
+                {
+                    "home": "FC Turin",
+                    "guest": "Juventus Turin",
+                    "trend": "2-3-5"
+                },
+                {
+                    "home": "CFC Genua 1893",
+                    "guest": "Parma Calcio",
+                    "trend": "3-4-3"
+                },
+                {
+                    "home": "FC Bologna",
+                    "guest": "AS Rom",
+                    "trend": "4-4-2"
+                },
+                {
+                    "home": "AFC Bournemouth",
+                    "guest": "West Bromwich Albion",
+                    "trend": "6-2-2"
+                },
+                {
+                    "home": "FC Arsenal",
+                    "guest": "Manchester United",
+                    "trend": "6-2-2"
+                },
+                {
+                    "home": "FC Empoli",
+                    "guest": "US Lecce",
+                    "trend": "4-3-3"
+                },
+                {
+                    "home": "Udinese Calcio",
+                    "guest": "Atalanta Bergamo",
+                    "trend": "1-3-6"
+                },
+                {
+                    "home": "AC Mailand",
+                    "guest": "Cagliari Calcio",
+                    "trend": "5-3-2"
+                },
+                {
+                    "home": "FC Venedig",
+                    "guest": "Inter Mailand",
+                    "trend": "1-3-6"
+                },
+                {
+                    "home": "Deportivo Alaves",
+                    "guest": "Girona FC",
+                    "trend": "4-3-3"
+                },
+                {
+                    "home": "Real Valladolid",
+                    "guest": "Real Betis Sevilla",
+                    "trend": "2-3-5"
+                },
+                {
+                    "home": "Espanyol Barcelona",
+                    "guest": "CD Leganes",
+                    "trend": "5-3-2"
+                },
+                {
+                    "home": "Sevilla FC",
+                    "guest": "FC Valencia",
+                    "trend": "5-3-2"
+                },
+                {
+                    "home": "UD Las Palmas",
+                    "guest": "FC Getafe",
+                    "trend": "4-3-3"
+                },
+                {
+                    "home": "Atletico Madrid",
+                    "guest": "CA Osasuna",
+                    "trend": "7-2-1"
+                },
+                {
+                    "home": "Heracles Almelo",
+                    "guest": "Sparta Rotterdam",
+                    "trend": "4-3-3"
+                },
+                {
+                    "home": "PEC Zwolle",
+                    "guest": "NEC Nijmegen",
+                    "trend": "4-3-3"
+                },
+                {
+                    "home": "PSV Eindhoven",
+                    "guest": "AZ Alkmaar",
+                    "trend": "7-2-1"
+                },
+                {
+                    "home": "FC Twente Enschede",
+                    "guest": "Willem II Tilburg",
+                    "trend": "7-2-1"
+                },
+                {
+                    "home": "FC Groningen",
+                    "guest": "Almere City",
+                    "trend": "6-2-2"
+                },
+                {
+                    "home": "Feyenoord Rotterdam",
+                    "guest": "FC Utrecht",
+                    "trend": "6-2-2"
+                },
+                {
+                    "home": "NAC Breda",
+                    "guest": "SC Heerenveen",
+                    "trend": "4-3-3"
+                },
+                {
+                    "home": "Cosenza Calcio",
+                    "guest": "Mantova 1911",
+                    "trend": "3-3-4"
+                },
+                {
+                    "home": "Frosinone Calcio",
+                    "guest": "US Cremonese",
+                    "trend": "2-3-5"
+                },
+                {
+                    "home": "FC Palermo",
+                    "guest": "Modena FC",
+                    "trend": "3-4-3"
+                },
+                {
+                    "home": "AC Reggiana",
+                    "guest": "SSC Bari",
+                    "trend": "3-3-4"
+                },
+                {
+                    "home": "Spezia Calcio",
+                    "guest": "SS Juve Stabia",
+                    "trend": "4-4-2"
+                },
+                {
+                    "home": "FC Südtirol",
+                    "guest": "US Catanzaro",
+                    "trend": "3-3-4"
+                },
+                {
+                    "home": "FC Cesena",
+                    "guest": "AS Cittadella",
+                    "trend": "4-4-2"
+                },
+                {
+                    "home": "Racing Ferrol",
+                    "guest": "FC Cartagena",
+                    "trend": "5-3-2"
+                },
+                {
+                    "home": "Albacete Balompie",
+                    "guest": "Racing Santander",
+                    "trend": "4-3-3"
+                },
+                {
+                    "home": "SD Huesca",
+                    "guest": "CD Mirandes",
+                    "trend": "4-3-3"
+                },
+                {
+                    "home": "CD Teneriffa",
+                    "guest": "CD Castellon",
+                    "trend": "4-3-3"
+                },
+                {
+                    "home": "FC Malaga",
+                    "guest": "Deportivo La Coruna",
+                    "trend": "3-3-4"
+                },
+                {
+                    "home": "Real Oviedo",
+                    "guest": "Sporting Gijon",
+                    "trend": "5-3-2"
+                },
+                {
+                    "home": "CF Cordoba",
+                    "guest": "UD Almeria",
+                    "trend": "3-3-4"
+                },
+                {
+                    "home": "Elche CF",
+                    "guest": "Real Saragossa",
+                    "trend": "5-3-2"
+                }
+            ]
+        }
+    ]
+}
